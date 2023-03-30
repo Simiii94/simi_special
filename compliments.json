@@ -1,6 +1,6 @@
 {		
 		"anytime": [
-		"Schön dich zu sehen!", 
+		/*"Schön dich zu sehen!", 
 		"Hello again,\nIch sag einfach Hello again",
 		"Ha Ho He, Hertha BSC",
 		"Wallah siehst du gut aus!",
@@ -17,17 +17,20 @@
 		"Siuuu, richtig wyld du bist ein Macher, Bre!",
                 "Wer das liest ist cool",
 		"Yo was geht'n alter?"
-		],
-			"morning": ["Bester Tag heute", "Gönnung ist angesagt", "Mach den Roflcopter", "Good Morning, uuhuhuuh - Kanye West", "Das wird ein Knallertag", "Hab nen top Tag!", "Guten Morgen, liebe Sorgen", "Hello, super morgen", "Moooooorjeeeeen"],
-			"afternoon": ["Ich war hier", "Zeit für ne Mittagspause", "Es ist Mittach", "Großes wartet noch auf euch", "Was ein Tag, oder?"],
-			"evening": ["Das war ein Tag heute, oder?", "Yeah Yeah Yeah", "Guten Abend, gute Nacht...", "Hier steppt der Bär, irre!", "Guten Abend", "Jessi ist die Beste", "Whoop Whoop", "Letz Fetz!", "Ob es euch auch so geil geht \nI doubt it, haha", "Sehr geil, super geil!"],
-			"....-01-01": ["Happy new year!"],
-			"....-10-06": ["<3 Simons und Jessis Tag <3"],
-			"2022-10-15": ["Herzlich Willkommen \nZur Einweihungsparty"],
-			"....-30-03": ["Happy Birthday, Jessi!"],
-			"....-24-12": ["Frohe Weihnachten."],
-			"....-25-12": ["Frohe Weihnachten, \nHammer 1. Weihnachtsfeiertag"],
-			"....-26-12": ["Frohen 2. Weihnachtstag"]
+		*/
+		"Happy Birthday, Jessi!",
+		"Alles Gute zum Geburtstag Jessi!"
+		//],
+		]
+		//	"morning": ["Bester Tag heute", "Gönnung ist angesagt", "Mach den Roflcopter", "Good Morning, uuhuhuuh - Kanye West", "Das wird ein Knallertag", "Hab nen top Tag!", "Guten Morgen, liebe Sorgen", "Hello, super morgen", "Moooooorjeeeeen"],
+		//	"afternoon": ["Ich war hier", "Zeit für ne Mittagspause", "Es ist Mittach", "Großes wartet noch auf euch", "Was ein Tag, oder?"],
+		//	"evening": ["Das war ein Tag heute, oder?", "Yeah Yeah Yeah", "Guten Abend, gute Nacht...", "Hier steppt der Bär, irre!", "Guten Abend", "Jessi ist die Beste", "Whoop Whoop", "Letz Fetz!", "Ob es euch auch so geil geht \nI doubt it, haha", "Sehr geil, super geil!"],
+		//	"....-01-01": ["Happy new year!"],
+		//	"2022-10-15": ["Herzlich Willkommen \nZur Einweihungsparty"],
+		//	"....-30-03": ["Happy Birthday, Jessi!"],
+		//	"....-24-12": ["Frohe Weihnachten."],
+		//	"....-25-12": ["Frohe Weihnachten, \nHammer 1. Weihnachtsfeiertag"],
+		//	"....-26-12": ["Frohen 2. Weihnachtstag"]
 
 			
 		}
