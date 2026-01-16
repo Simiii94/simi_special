@@ -70,9 +70,7 @@
 "Du siehst so gut aus,\nder Spiegel kriegt Komplexe.",
 "Einfach nur irre!\n(positiv natürlich).",
 "Spiegel sagt:\nBleib genau so, Bre!",
-		"Einfach nur irre!",
-
-			/* Hertha / Celsiusstraße / Klassiker */
+"Einfach nur irre!",
 "Ha Ho He,\ndu Schönheit!",
 "Ha Ho He,\nheute Siegertyp!",
 "Hertha BSC,\nund du bist MVP.",
@@ -92,9 +90,7 @@
 "Wer ist der geilste hier?\nDu niiich. Doch!",
 "Hallo ihr Zuckermäuse\nund Glanzpersonen!",
 "Ich hab dich lieb!\n<3",
-"Nur kurz:\nDu bist ein Sonnenschein.",
-
-// Sauna Bartsch-Kristall-Arena (extrem heiß) 
+"Nur kurz:\nDu bist ein Sonnenschein.", 
 "Bartsch-Kristall-Arena:\nso heiß wie dein Look.",
 "Sauna-Level:\nBartsch-Kristall.\nDu so: extra hot.",
 "Wenn’s heiß wird:\ndu bleibst cool (naja… fast).",
@@ -115,8 +111,6 @@
 "Wenn’s zischt:\nnicht der Ofen — du!",
 "Sauna-Bestie:\nJessi & Simon im Hitzemodus.",
 "Vorsicht heiß!\n(du und die Sauna).",
-
-
 "This is the start\nof something new!",
 "Get’cha head in the game!\n(und ins Styling).",
 "We’re all in this together!\nJessi & Simon Edition.",
@@ -137,8 +131,6 @@
 "We’re all in this together:\nauch vorm Spiegel.",
 "HSM sagt:\nSing.\nSpiegel sagt:\nSlay.",
 "Wildcats-Energie:\nGo Jessi! Go Simon!",
-
-// Darts
 "Game on!\n180 im Charme.",
 "One hundred and eighty!\n(gefühlt dein Look).",
 "Bullseye!\nDirekt ins Herz, dein Style.",
@@ -159,8 +151,6 @@
 "Der Spiegel ruft:\nGame shot!",
 "Wenn Ausstrahlung Punkte gäbe:\n180.",
 "Throw it!\n(aber bitte nur Pfeile).",
-
-// Lehrer sein (Beruf)
 "Lehrer-Look,\nLegenden-Vibe.",
 "Jessi & Simon:\nBildungsauftrag + Beautyauftrag.",
 "Heute unterrichtest du\nauch gute Laune.",
@@ -181,8 +171,6 @@
 "Heute wieder:\npädagogisch wertvoll\nund optisch auch.",
 "Die Klasse lernt was.\nDer Spiegel auch:\nRespekt!",
 "Wenn Lehrersein ein Superpower ist:\nDu bist Marvel.",
-
-// Kalter Pool im Garten
 "Kalter Pool,\naber du bleibst hot.",
 "Plitsch platsch,\nCharme-Attacke.",
 "Pool so: eiskalt.\nDu so: warmes Herz.",
@@ -203,8 +191,6 @@
 "Kalt, kälter,\naber du bleibst süß.",
 "Nach dem Pool:\nHandtuch + Held.",
 "Ich sag’s wie’s ist:\nEiskalt gut.",
-
-// Basteln
 "Bastelmodus:\nSchere, Kleber,\nCharme.",
 "Du bist kreativ\nund attraktiv.\nZufall? Nein.",
 "DIY-Queen/King:\nJessi & Simon!",
@@ -225,8 +211,6 @@
 "Wenn’s knifflig wird:\ndu bleibst ruhig und nice.",
 "DIY ist dein Ding,\nund du bist auch ein Ding.",
 "Basteln macht glücklich.\nDu auch.",
-
-// Fahrrad fahren
 "Fahrrad-Vibes:\ntritt rein,\nbleib geil.",
 "Radeln = Freiheit.\nDu = Freiheit mit Style.",
 "Helm auf,\nGlow an.",
@@ -247,8 +231,6 @@
 "Fahrrad sagt:\ndanke fürs Treten.\nIch sag:\ndanke fürs Strahlen.",
 "Einmal klingeln:\nalle machen Platz für dich.",
 "Aufsatteln,\nabliefern,\nabglänzen.",
-
-// Extra klassische Knaller (gemischt, als Abschluss)
 "Schön dich zu sehen!",
 "Hallo ich bins!\nDein Fanclub.",
 "Du siehst aus\nwie ein guter Plan.",
@@ -262,9 +244,35 @@
 	
 		],	
 			
-			morning: ["Bester Tag heute", "Gönnung ist angesagt", "Mach den Roflcopter", "Good Morning, uuhuhuuh - Kanye West", "Das wird ein Knallertag", "Hab nen top Tag!", "Guten Morgen, liebe Sorgen", "Hello, super morgen", "Moooooorjeeeeen"],
-			afternoon: ["Ich war hier", "Zeit für ne Mittagspause", "Es ist Mittach", "Großes wartet noch auf euch", "Was ein Tag, oder?"],
-			evening: ["Das war ein Tag heute, oder?", "Yeah Yeah Yeah", "Guten Abend, gute Nacht...", "Hier steppt der Bär, irre!", "Guten Abend", "Jessi ist die Beste", "Whoop Whoop", "Letz Fetz!", "Ob es euch auch so geil geht \nI doubt it, haha", "Sehr geil, super geil!"],
+			morning: [
+				"Bester Tag heute", 
+				"Gönnung ist angesagt", 
+				"Mach den Roflcopter", 
+				"Das wird ein Knallertag",
+				"Hab nen top Tag!",
+				"Guten Morgen, liebe Sorgen",
+				"Hello, super morgen",
+				"Moooooorjeeeeen"
+			],
+			afternoon: [
+				"Ich war hier", 
+				"Zeit für ne Mittagspause",
+				"Es ist Mittach",
+				"Großes wartet noch auf euch",
+				"Was ein Tag, oder?"
+			],
+			evening: [
+				"Das war ein Tag heute, oder?",
+				"Yeah Yeah Yeah",
+				"Guten Abend, gute Nacht...",
+				"Hier steppt der Bär, irre!",
+				"Guten Abend",
+				"Jessi ist die Beste",
+				"Whoop Whoop",
+				"Letz Fetz!",
+				"Ob es euch auch so geil geht \nI doubt it, haha",
+				"Sehr geil, super geil!"
+				],
 			"....-01-01": ["Happy new year!"],
 			"....-30-03": ["Happy Birthday, Jessi!"],
 			"....-24-12": ["Frohe Weihnachten."],
